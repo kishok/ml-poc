@@ -1,8 +1,0 @@
-{"id": 8, "data": "List down the slots which have variance", "label": [[14, 19, "ASSET"], [31, 39, "MISC"]]}
-{"id": 9, "data": "Show me the slots which have variance", "label": [[12, 17, "ASSET"], [29, 37, "MISC"]]}
-{"id": 10, "data": "List down the slots which have variance today", "label": [[14, 20, "ASSET"], [31, 39, "MISC"], [40, 45, "DATE"]]}
-{"id": 11, "data": "Show me the slots which have variance today", "label": [[12, 17, "ASSET"], [29, 37, "MISC"], [37, 43, "DATE"]]}
-{"id": 12, "data": "List down the slots which have no variance", "label": [[14, 19, "ASSET"], [31, 33, "UNIT"], [33, 42, "MISC"]]}
-{"id": 13, "data": "Show me the slots which have no variance", "label": [[12, 17, "ASSET"], [29, 31, "UNIT"], [32, 40, "MISC"]]}
-{"id": 14, "data": "List down the slots which have no variance today", "label": [[14, 19, "ASSET"], [30, 33, "UNIT"], [34, 42, "MISC"], [43, 48, "DATE"]]}
-{"id": 15, "data": "Show me the slots which have no variance today", "label": [[12, 17, "ASSET"], [29, 31, "UNIT"], [32, 40, "MISC"], [41, 46, "DATE"]]}
