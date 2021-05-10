@@ -1,0 +1,17 @@
+List:O down:O the:O slots:S-asset which:O have:O variance:S-measurement <=> GetSlotRevenueWithVariance
+Show:O me:O the:O slots:S-asset which:O have:O variance:S-measurement <=> GetSlotRevenueWithVariance
+List:O down:O the:O slots:S-asset which:O have:O variance:S-measurement today:S-date <=> GetSlotRevenueWithVariance
+Show:O me:O the:O slots:S-asset which:O have:O variance:S-measurement today:S-date <=> GetSlotRevenueWithVariance
+List:O down:O the:O slots:S-asset which:O have:O no:B-measurement variance:E-measurement <=> GetSlotRevenueWithOutVariance
+Show:O me:O the:O slots:S-asset which:O have:O no:B-measurement variance:E-measurement <=> GetSlotRevenueWithOutVariance
+List:O down:O the:O slots:S-asset which:O have:O no:B-measurement variance:E-measurement today:S-date <=> GetSlotRevenueWithOutVariance
+Show:O me:O the:O slots:S-asset which:O have:O no:B-measurement variance:E-measurement today:S-date <=> GetSlotRevenueWithOutVariance
+List:O down:O all:O the:O slots:S-asset-revenue revenue:E-asset_revenue <=> GetAllSlotsRevenue
+List:O down:O the:O slots:B-asset_revenue revenue:E-asset_revenue today:S-date <=> GetAllSlotsRevenue
+List:O down:O the:O slots:B-asset_revenue revenue:E-asset_revenue for:O 20/04/2021:S-date <=> GetAllSlotsRevenue
+Show:O me:O the:O slots:B-asset_revenue revenue:E-asset_revenue today:S-date <=> GetAllSlotsRevenue
+Show:O me:O all:O the:O slots:B-asset_revenue revenue:E-asset_revenue today:S-date <=> GetAllSlotsRevenue
+Show:O me:O the:O slots:S-asset revenue:B-asset_revenue for:O last:B-date friday:E-date <=> GetAllSlotsRevenue
+Show:O me:O the:O top:B-asset_revenue 10:I-asset_revenue slots:E-asset_revenue which:O have:O variance:S-measurement today:S-date <=> GetSlotRevenueWithVariance
+Show:O me:O the:O first:B-asset_revenue 10:I-asset_revenue slots:E-asset_revenue which:O have:O variance:S-measurement today:S-date <=> GetSlotRevenueWithVariance
+List:O down:O the:O top:B-asset_revenue 10:I-asset_revenue slots:E-asset_revenue which:O have:O variance:S-measurement today:S-date <=> GetSlotRevenueWithVariance
